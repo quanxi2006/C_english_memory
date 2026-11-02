@@ -1,0 +1,7 @@
+apple|苹果
+run|跑
+exit|退出
+China|中国
+english|英语
+friend|朋友
+good|��好，棒
